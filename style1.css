@@ -1,0 +1,56 @@
+ #container{
+        margin: 0;
+        padding: 0;
+        
+        bottom: -450px;
+        display: block;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        font-size: 30px;
+        text-align: center;
+        margin-top: -470px;
+        border: 4px black solid;
+        border-radius: 25px;
+        position: relative;
+        align-content: center;
+        align-self: flex-start;
+        flex-direction: column;
+        justify-content: center;
+        
+    
+       
+        
+        
+        
+    }    
+    img{
+    border-radius: 10%;
+    height: 500px;
+     left: 100px;
+    padding: 25px;
+    border-radius: 100%;
+    
+    }
+
+    H1{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        right: 100px;
+    }
+    
+    #DIV2
+    {
+        justify-content: center;
+        
+    }
+    body{
+        background-image:url(sarhan.png);
+         background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;  background-blend-mode: none;
+    }
+    
+
+    
+   
