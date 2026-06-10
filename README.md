@@ -128,6 +128,15 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
   <img src="https://raw.githubusercontent.com/sarhan31/sarhan31/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ---
+## 💻 Developer Status
+
+```text
+💻 Role          : Full Stack Developer (Frontend Focused)
+⚛️ Learning      : React.js & Node.js
+🚀 Building      : Real-World Web Applications
+🌱 Exploring     : Modern Full Stack Development
+🎯 Goal          : Become a Professional Full Stack Developer
+```
 
 # 🌐 Connect With Me
 
