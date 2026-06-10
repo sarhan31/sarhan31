@@ -132,7 +132,6 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 ---
 <div align="center">
 
-## 💻 Developer Status
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;Frontend-Focused;Crafting+Modern+Web+Experiences" alt="Typing SVG" />
 
