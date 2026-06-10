@@ -1,3 +1,6 @@
+
+
+</div>
 <div align="center">
 
 # 👋 Hi, I'm Sarhan Vohra
@@ -59,6 +62,7 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 🔗 Repository:https://github.com/sarhan31/aban_pharama
 
+
 ---
 
 ## 💼 VendorBridge
@@ -69,7 +73,7 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 * Clean and modern UI
 * User-friendly experience
 
-🔗 Repository: https://github.com/AMMANMALEK/VendorBridge
+🔗 Repository:https://github.com/AMMANMALEK/VendorBridge
 
 ---
 
@@ -83,6 +87,7 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 🔗 Repository: frontend:https://github.com/sarhan31/task_frontend
                 backend:https://github.com/sarhan31/task_backend
+
 
 ---
 
@@ -99,29 +104,29 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 # 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=sarhan31\&show_icons=true\&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarhan31\&show_icons=true\&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=sarhan31\&layout=compact\&theme=tokyonight
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarhan31\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-https://streak-stats.demolab.com?user=sarhan31\&theme=tokyonight
+![GitHub Streak](https://streak-stats.demolab.com?user=sarhan31\&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=sarhan31\&theme=tokyonight\&no-frame=true\&margin-w=10
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sarhan31\&theme=tokyonight\&no-frame=true\&margin-w=10)
 
 ---
 
 # 🌐 Connect With Me
 
-* 💻 GitHub: https://github.com/sarhan31
+* 💻 GitHub:https://github.com/sarhan31
 * 💼 LinkedIn:https://www.linkedin.com/in/sarhan-vohra-5379a4331
-* 📧 Email: sarhanvohra31@gmail.com
+* 📧 Email:sarhanvohra31gmail.com
 
 ---
 
