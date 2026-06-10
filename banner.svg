@@ -1,0 +1,33 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0524"></stop>
+      <stop offset="50%" stop-color="#2e1065"></stop>
+      <stop offset="100%" stop-color="#581c87"></stop>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="420" fill="url(#bg)"></rect>
+
+  <!-- Bottom Wave -->
+  <path d="M0,320 C250,380 450,260 700,320 C950,380 1200,250 1600,330 L1600,420 L0,420 Z" fill="#12061f" opacity="0.7"></path>
+
+  <!-- Name -->
+  <text x="800" y="165" text-anchor="middle" fill="white" font-family="Inter, Arial, Helvetica, sans-serif" font-size="78" font-weight="800" filter="url(#glow)">
+    Sarhan Vohra
+  </text>
+
+  <!-- Subtitle -->
+  <text x="800" y="245" text-anchor="middle" fill="#f3f4f6" font-family="Inter, Arial, Helvetica, sans-serif" font-size="34" font-weight="700">
+    Full Stack Developer • Frontend-Focused • React Enthusiast
+  </text>
+</svg>
