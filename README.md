@@ -57,7 +57,7 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 * Production-ready deployment
 * Developed for a real client
 
-🔗 Repository:[ ADD_GITHUB_LINK](https://github.com/sarhan31/aban_pharama)
+🔗 Repository:https://github.com/sarhan31/aban_pharama
 
 ---
 
@@ -99,28 +99,28 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarhan31\&show_icons=true\&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=sarhan31\&show_icons=true\&theme=tokyonight
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarhan31\&layout=compact\&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=sarhan31\&layout=compact\&theme=tokyonight
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sarhan31\&theme=tokyonight)
+https://streak-stats.demolab.com?user=sarhan31\&theme=tokyonight
 
 ---
 
 # 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sarhan31\&theme=tokyonight\&no-frame=true\&margin-w=10)
+https://github-profile-trophy.vercel.app/?username=sarhan31\&theme=tokyonight\&no-frame=true\&margin-w=10
 
 ---
 
 # 🌐 Connect With Me
 
 * 💻 GitHub: https://github.com/sarhan31
-* 💼 LinkedIn:[ ADD_YOUR_LINKEDIN](https://www.linkedin.com/in/sarhan-vohra-5379a4331)
+* 💼 LinkedIn:https://www.linkedin.com/in/sarhan-vohra-5379a4331
 * 📧 Email: sarhanvohra31@gmail.com
 
 ---
