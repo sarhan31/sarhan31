@@ -123,13 +123,16 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarhan31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
----
+_________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarhan31/sarhan31/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 <div align="center">
 
 
@@ -137,6 +140,7 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 </div>
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 🌐 Connect With Me
 
