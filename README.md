@@ -116,14 +116,11 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 ---
 
-# 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarhan31&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarhan31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
 ---
 
 # 🌐 Connect With Me
