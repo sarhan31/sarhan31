@@ -62,8 +62,8 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/sarhan31
-* LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/sarhan-vohra-5379a4331)
-* * Email: sarhanvohra31@gmail.com
+* Linkedn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/sarhan-vohra-5379a4331)
+* EmaIil: sarhanvohra31@gmail.com
 ---
 
 ⭐ Passionate about building clean, responsive, and impactful web experiences while continuously learning and improving.
