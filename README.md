@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Sarhan Vohra Banner" />
+</p>
 
 </div>
 <div align="center">
