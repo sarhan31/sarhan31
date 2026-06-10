@@ -143,7 +143,7 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 * 💻 GitHub:https://github.com/sarhan31
 * 💼 LinkedIn:https://www.linkedin.com/in/sarhan-vohra-5379a4331
-* 📧 Email:sarhanvohra31gmail.com
+* 📧 Email:sarhanvohra31@gmail.com
 
 ---
 
