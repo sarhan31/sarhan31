@@ -92,6 +92,21 @@ I enjoy solving real-world problems, creating intuitive user experiences, and co
 
 
 ---
+## 💼 Shop Website & ERP System
+
+- Responsive e-commerce website with modern UI
+- Complete ERP and billing solution for retail shops and flour mills
+- Product catalog and inventory management
+- Shopping cart and secure authentication
+- Bluetooth thermal receipt generation
+- Sales analytics and daily business reports
+- Mobile-first responsive dashboard
+- Clean, fast, and user-friendly experience
+
+🔗 Website:https://github.com/sarhan31/shop_website
+🔗 ERP:https://github.com/sarhan31/shop_erp_billing
+
+---
 
 
 # 📚 Currently Learning
